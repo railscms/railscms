@@ -1,2 +1,2 @@
-# railscms
+# Rails CMS
 Rails CMS
